@@ -1,0 +1,23 @@
+.quiz-options {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .quiz-option {
+    background-color: #3c3f48;
+    padding: 15px 30px;
+    margin: 10px 0;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .quiz-option:hover {
+    background-color: #4b4e57;
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
