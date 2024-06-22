@@ -23,7 +23,7 @@ Se você deseja contribuir para este projeto, siga estas etapas:
 ## Estrutura do Projeto
 
 ```plaintext
-my-react-app/
+Frontend-Quiz-Application/
 ├── public/
 ├── src/
 │   ├── assets/
