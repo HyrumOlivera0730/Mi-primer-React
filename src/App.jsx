@@ -1,7 +1,6 @@
 import LeftSide from "./components/Left Side/LeftSide";
-import React from 'react';
 import RightSide from "./components/Right Side/RightSide";
-
+import React from 'react';
 function App() {
 
   return (
@@ -13,5 +12,4 @@ function App() {
     </div>
   )
 }
-
 export default App
