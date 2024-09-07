@@ -1,6 +1,6 @@
 # Frontend Quiz Application
 
-Este é um projeto de uma aplicação de quiz frontend, construída com React. A aplicação possui uma tela de boas-vindas com opções de quiz para HTML, CSS, JavaScript e Acessibilidade.
+Este é um projeto de uma aplicação de quiz frontend, construída com React. A aplicação só possui uma tela de boas-vindas com opções de quiz para HTML, CSS, JavaScript e Acessibilidade. Design foi extraído de **[Frontend Mentor](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU)**
 
 ![demo](/public/demo.png)
 ## Estrutura dos Componentes
